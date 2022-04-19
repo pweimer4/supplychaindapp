@@ -1,0 +1,14 @@
+Contract Adress: 0xe51cd8ffe0f9f2b2def191dac144af23a77e10e7
+
+Transactions hash: 0xb31d7ae77db440de0ed3fc40fc84637ab0ab6b9aeaeb5390d5694c97133abc1c 
+
+node version: v16.3.2
+
+truffle version: v4.1.14
+Solidity v0.4.24
+
+web3 version:
+
+├─┬ truffle-hdwallet-provider@1.0.17
+│ └── web3@1.2.1
+└── web3@1.7.3
